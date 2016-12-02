@@ -27,8 +27,10 @@ public static String rmCharacter(String str, char c){
 		}
 }
 
-2. String line = "sirisha";
-   line = line.replace("i", "");
+2. String line = "sirisha"; 
+//replacing all 'i' characters with null
+   line = line.replace("i", ""); 
+   
 
  
  
